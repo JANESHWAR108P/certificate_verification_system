@@ -1,0 +1,66 @@
+body {
+  font-family: Arial;
+  background: #f4f6f8;
+}
+
+.card {
+  width: 350px;
+  margin: 80px auto;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 0 10px #ccc;
+  border-radius: 8px;
+}
+
+input, select, button {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+button {
+  background: #2563eb;
+  color: rgb(245, 15, 8);
+  border: none;
+  cursor: pointer;
+}
+.dashboard {
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #e2e604;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #e60e0e;
+  text-align: left;
+}
+
+th {
+  background: #88e015;
+}
+
+button {
+  margin: 0 5px;
+  padding: 6px 10px;
+  cursor: pointer;
+  border-radius: 6px;
+  border: none;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.card {
+  padding: 15px;
+  margin: 10px 0;
+  background: #81ee05;
+  border-radius: 8px;
+}
+
